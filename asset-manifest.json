@@ -1,0 +1,13 @@
+{
+  "main.js": "/notes-app/static/js/main.edfaffa5.chunk.js",
+  "main.js.map": "/notes-app/static/js/main.edfaffa5.chunk.js.map",
+  "static/js/1.664b7d87.chunk.js": "/notes-app/static/js/1.664b7d87.chunk.js",
+  "static/js/1.664b7d87.chunk.js.map": "/notes-app/static/js/1.664b7d87.chunk.js.map",
+  "runtime~main.js": "/notes-app/static/js/runtime~main.3e66a518.js",
+  "runtime~main.js.map": "/notes-app/static/js/runtime~main.3e66a518.js.map",
+  "static/media/archive-btn.png": "/notes-app/static/media/archive-btn.7f34a9f1.png",
+  "static/media/unarchive-btn.png": "/notes-app/static/media/unarchive-btn.1950df1f.png",
+  "index.html": "/notes-app/index.html",
+  "precache-manifest.cc9c84503b30db402fc25dfb8ad667ff.js": "/notes-app/precache-manifest.cc9c84503b30db402fc25dfb8ad667ff.js",
+  "service-worker.js": "/notes-app/service-worker.js"
+}
